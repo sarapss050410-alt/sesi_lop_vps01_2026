@@ -22,3 +22,9 @@ void main(){
 printf ("Alô mundo!);
 }
 ```
+
+## Exemplo de fluxograma
+![Fluxograma]
+.(!
+
+

@@ -1,7 +1,7 @@
 # Avaliação 01
 ## VPS01 (Verificação Prática Somativa 01
 
-## tecnologias
+## Tecnologias
 
 |Tecnologia|Descrição|
 |-|-|
